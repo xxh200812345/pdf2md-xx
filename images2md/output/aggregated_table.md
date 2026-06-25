@@ -44,7 +44,7 @@
 | 38 | 雲開 | clouds open<br>(disperse) | 亞灣得即 | ya wan tê lang | awan tĕrang* | 6 |
 | 39 | 雲飛 | clouds flying | 亞灣得力邦 | ya wan tĕ li pang | awan tĕrbang* | 6 |
 | 39 | 雲飛 | clouds flying | 亞灣得力邦 | ya wan tê li pang | awan tĕrbang* | 6 |
-| 40 | 月上 | moon rise(s) | 補藍巴路奈 | pu lan pa lu nai | bulan baharu<br>naik* | 6 |
+| 40 | 月上 | moon rise(s) | 補藍巴路柰 | pu lan pa lu nai | bulan baharu<br>naik* | 6 |
 | 41 | 月落 | moon set(s) | 麻速補藍 | ma su pu lan | bulan masok* | 6 |
 | 42 | 月明 | moon (is) bright or<br>moonlight | 得浪補藍 | tĕ lang pu lan | tĕrang bulan* | 6 |
 | 42 | 月明 | moon (is) bright or<br>moonlight | 得浪補藍 | tê lang pu lan | tĕrang bulan* | 6 |
@@ -234,7 +234,7 @@
 | 222 | 虎掌 | tiger paw | 者的亞利毛 | chê ti ya li mao | jari harimau | 18 |
 | 223 | 虎瓜 | tiger claws | 孤孤亞利毛 | ku ku ya li mao | kuku harimau | 18 |
 | 224 | 虎毛 | tiger hair | 必祿亞利毛 | pi lu ya li mao | bulu harimau | 18 |
-| 225 | 騎馬 | ride a horse | 奈谷達 | nai ku ta | naik kuda | 18 |
+| 225 | 騎馬 | ride a horse | 柰谷達 | nai ku ta | naik kuda | 18 |
 | 226 | 走馬 | a riding-horse | 谷達剌利 | ku ta la li | kuda lari* | 18 |
 | 227 | 殺牛 | kill an ox | 凌布卜奴 | ling pu pu nu | bunoh lĕmbu* | 18 |
 | 228 | 黃蜂 | wasp (lit. yellow<br>bee) | 宜牙 | i ya | pĕnyĕngat ?* | 18 |
@@ -336,7 +336,7 @@
 | 324 | 見 | perceive, see, appre-<br>hend | 蘇答列 | su ta lieh | sudah lihat* | 25 |
 | 325 | 聽 | listen | 門能牙兒 | mên nêng ya êrh | mĕn(d)ĕngar* | 25 |
 | 326 | 排班 | arrange the service<br>(of underlings) ? | 札安谷店<br>札安路路<br>撒麻立立 | cha an ku tien<br>cha an lu lu<br>sa ma li li | [unexplained]* | 26 |
-| 327 | 上御道 | go along Imperial<br>highway | 奈亞習答那 | nai ya hsi ta na | naik astana* | 26 |
+| 327 | 上御道 | go along Imperial<br>highway | 柰亞習答那 | nai ya hsi ta na | naik astana* | 26 |
 | 328 | 朝見 | have audience with<br>emperor | 牙答 | ya ta | mĕnghadap* | 26 |
 | 329 | 再拜 | repeatedly bow | 剌及吟八 | la chi yin pa | lagi<br>mĕnyĕmbah* | 26 |
 | 330 | 起來 | get up, arise | 垻温 | pa wên | bangun | 26 |
